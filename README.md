@@ -1,6 +1,5 @@
 ﻿### Hi ! I'am Furkan. I'am coding for you !🙋‍♂️
-
--   🔭  I’m currently working as a Software Developer in Turkey,Ankara.
+.
 -   🌱  I’m currently learning Kotlin for Mobile Programing 
 -   💬  Ask me about Kotlin
 
