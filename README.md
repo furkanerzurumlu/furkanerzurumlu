@@ -10,4 +10,4 @@
 
 ![enter image description here](https://user-images.githubusercontent.com/39477363/111867131-23d7d300-8983-11eb-9e92-4af3133e0795.png)
 
-![snake svg](https://github.com/furkanerzurumlu/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/furkanerzurumlu/blob/output/github-contribution-grid-snake.gif)
