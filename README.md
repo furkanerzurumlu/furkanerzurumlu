@@ -8,6 +8,6 @@
 - -    💬  Ask me about Swift
 - - ⚡  Fun fact  **Filter Coffee**  
 
-![enter image description here](https://user-images.githubusercontent.com/39477363/111867131-23d7d300-8983-11eb-9e92-4af3133e0795.png)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=furkanerzurumlu)](https://github.com/anuraghazra/github-readme-stats)
 
 ![snake gif](https://github.com/furkanerzurumlu/furkanerzurumlu/blob/output/github-contribution-grid-snake.gif)
