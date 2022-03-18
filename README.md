@@ -14,7 +14,7 @@
    <img  src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=furkanerzurumlu)](https://github.com/anuraghazra/github-readme-stats)
 " />
     <br>
- ![](https://github.com/furkanerzurumlu/github-stats/blob/master/generated/languages.svg)
+ ![](https://github.com/https://github.com/furkanerzurumlu/github-stats/blob/master/generated/languages.svg)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=furkanerzurumlu)](https://github.com/anuraghazra/github-readme-stats)
