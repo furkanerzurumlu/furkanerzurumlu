@@ -13,7 +13,6 @@
 
 <div align="center">
 
-" />
     <br>
  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=furkanerzurumlu&show_icons=true&locale=en&layout=compact" alt="furkanerzurumlu" /></p>
 
