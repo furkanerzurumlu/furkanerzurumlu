@@ -3,7 +3,7 @@
 
  ## I am Computer Engineer and currently developing applications for iOS. 
 
- - -   🌱  I’m currently learning  **Swift** **SwiftUI**
+ - -   🌱  I’m currently learning  **Swift** and **SwiftUI**
  - -  📫  How to reach me  **[furkanerzurumlu99@yahoo.com](mailto:furkanerzurumlu99@yahoo.com)**
 - -    💬  Ask me about Swift
 - - ⚡  Fun fact  **Filter Coffee**  
