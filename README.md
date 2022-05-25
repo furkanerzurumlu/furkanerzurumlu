@@ -5,7 +5,7 @@
 
  - -   🌱  I’m currently learning  **Swift** and **SwiftUI**
  - -  📫  How to reach me  **[furkanerzurumlu99@yahoo.com](mailto:furkanerzurumlu99@yahoo.com)**
-- -    💬  Ask me about Swift
+- -    💬  Ask me about Swift and SwiftUI
 - - ⚡  Fun fact  **Filter Coffee**  
 - 
 <h3 align="left">Languages and Tools:</h3>
