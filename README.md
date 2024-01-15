@@ -19,5 +19,5 @@
 
 <img src="https://raw.githubusercontent.com/furkanerzurumlu/furkanerzurumlu/output/snake.svg" alt="Snake animation" />
 
-###
-<!–![snake gif](https://github.com/furkanerzurumlu/furkanerzurumlu/blob/output/github-contribution-grid-snake.gif)–>
+
+![snake gif](https://github.com/furkanerzurumlu/furkanerzurumlu/blob/output/github-contribution-grid-snake.gif)
