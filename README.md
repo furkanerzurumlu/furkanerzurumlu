@@ -15,5 +15,9 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=furkanerzurumlu)](https://github.com/anuraghazra/github-readme-stats)
+<br clear="both">
 
-![snake gif](https://github.com/furkanerzurumlu/furkanerzurumlu/blob/output/github-contribution-grid-snake.gif)
+<img src="https://raw.githubusercontent.com/furkanerzurumlu/furkanerzurumlu/output/snake.svg" alt="Snake animation" />
+
+###
+<!–![snake gif](https://github.com/furkanerzurumlu/furkanerzurumlu/blob/output/github-contribution-grid-snake.gif)–>
